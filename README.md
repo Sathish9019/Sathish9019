@@ -29,9 +29,9 @@ I'm actively hunting for **Data Engineer internships** — Data Engineering or A
 ## ⚡ What I work with
 
 ---
-Languages    →  python · java · c · c++ · SQL 
-Database     →  MySQL . PostgreSQL . MongoDB .Snowflake .Redshift
-Tools        →  Git · GitHub · ESLint · Postman
+Languages    →  python · java · c · c++ · SQL .
+Database     →  MySQL . PostgreSQL . MongoDB .Snowflake .Redshift.
+Tools        →  Git · GitHub · ESLint · Postman.
 ---
 
 ## 📬 Open to Internships
